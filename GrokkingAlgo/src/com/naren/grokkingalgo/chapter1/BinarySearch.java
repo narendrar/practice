@@ -1,7 +1,5 @@
 package com.naren.grokkingalgo.chapter1;
 
-import com.sun.deploy.util.StringUtils;
-
 import java.util.ArrayList;
 import java.util.List;
 
